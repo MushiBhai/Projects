@@ -10,7 +10,7 @@ I am a passionate web developer with a strong background in front-end technologi
 Muneeb is proficient in a variety of programming languages, frameworks, and tools, including:
 
 <i>1) HTML5</i><br>
-<i>2) CSS3</i>
+<i>2) CSS3</i><br>
 <i>3) JavaScript</i>
 
 <h1>Contact</h1><br>
